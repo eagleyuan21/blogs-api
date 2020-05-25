@@ -1,6 +1,6 @@
 # Blog page's API Framework
 
-The purpose of this is so that I can update my blog on any device as long as I am connected to the internet, so I can upload blog posts on my phone and such. This is deployed through heroku on blogpostseha.herokuapp.com, and the blog posts are displayed at eagleyuan.com/blogs.
+The purpose of this is so that I can update my blog on any device as long as I am connected to the internet, so I can upload blog posts on my phone and such. This is deployed through heroku on https://blogpostseha.herokuapp.com, and the blog posts are displayed at https://www.eagleyuan.com/blogs.
 
 This uses the django rest framework, and the API is uploaded to blogpostseha.herokuapp.com. The API is set so that only someone with adminstrator access can make requests to change the JSON data, but anyone can do GET requests. 
 
