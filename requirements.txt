@@ -6,7 +6,7 @@ checkexpect==1.0.19
 click==6.7
 colorama==0.4.3
 dj-database-url==0.5.0
-Django==3.0.3
+Django==3.0.14
 django-cors-headers==3.2.1
 djangorestframework==3.11.0
 docopt==0.6.2
