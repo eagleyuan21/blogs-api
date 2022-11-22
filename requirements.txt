@@ -14,7 +14,7 @@ feedparser==5.2.1
 gitsome==0.8.4
 gunicorn==20.0.4
 idna==2.9
-Pillow==8.2.0
+Pillow==9.3.0
 ply==3.11
 prompt-toolkit==2.0.10
 psycopg2==2.8.4
