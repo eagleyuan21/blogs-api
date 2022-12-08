@@ -1,6 +1,6 @@
 asgiref==3.2.3
 Brotli==1.0.7
-certifi==2019.11.28
+certifi==2022.12.7
 chardet==3.0.4
 checkexpect==1.0.19
 click==6.7
